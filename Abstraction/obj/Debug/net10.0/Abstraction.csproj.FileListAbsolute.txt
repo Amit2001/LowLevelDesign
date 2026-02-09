@@ -1,0 +1,14 @@
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\Abstraction.AssemblyInfo.cs
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\bin\Debug\net10.0\Abstraction.exe
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\bin\Debug\net10.0\Abstraction.deps.json
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\bin\Debug\net10.0\Abstraction.runtimeconfig.json
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\bin\Debug\net10.0\Abstraction.dll
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\bin\Debug\net10.0\Abstraction.pdb
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\Abstraction.dll
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\refint\Abstraction.dll
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\Abstraction.pdb
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\Abstraction.genruntimeconfig.cache
+C:\Users\amitsharma18\OneDrive - Nagarro\Desktop\LLD\Abstraction\obj\Debug\net10.0\ref\Abstraction.dll
